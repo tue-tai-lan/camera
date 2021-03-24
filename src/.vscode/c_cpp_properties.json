@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/rover/camera_ws/devel/include/**",
+        "/home/rover/Desktop/ligion_ws/devel/include/**",
+        "/home/rover/ligion_ws/devel_isolated/apriltag_ros/include/**",
+        "/home/rover/Desktop/christmas/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/rover/ligion_ws/devel_isolated/apriltag/include/**",
+        "/home/rover/camera_ws/src/apriltag_ros/apriltag_ros/include/**",
+        "/home/rover/camera_ws/src/Apriltags2_VO/apriltags2/include/**",
+        "/home/rover/camera_ws/src/Apriltags2_VO/apriltags2_ros/include/**",
+        "/home/rover/Desktop/ligion_ws/src/campusrover_arm/campusrover_arm_moveit_config/include/**",
+        "/home/rover/Desktop/ligion_ws/src/campusrover_arm/moveit_plugin/include/**",
+        "/home/rover/Desktop/ligion_ws/src/campusrover_routing/node_routing_engine/include/**",
+        "/home/rover/camera_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

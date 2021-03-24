@@ -1,0 +1,2 @@
+Apriltags2_VO/apriltags2:Apriltags2_VO/apriltags2_ros:apriltag_ros/apriltag_ros:program:realsense-ros/realsense2_camera:realsense-ros/realsense2_description
+-DCATKIN_DEVEL_PREFIX=/home/rover/camera_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rover/camera_ws/install -G Unix Makefiles

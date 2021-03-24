@@ -1,0 +1,8 @@
+prefix=/home/rover/camera_ws/devel
+
+Name: apriltags2
+Description: Description of apriltags2
+Version: 0.9.8
+Cflags: -I/home/rover/camera_ws/src/Apriltags2_VO/apriltags2/include
+Libs: -L${prefix}/lib -lapriltags2
+Requires: 
